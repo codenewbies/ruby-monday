@@ -1,4 +1,4 @@
-# Welcome to the Rub Monday Project! 
+# Welcome to the Ruby Monday Project! 
 This repo is the project for the CodeNewbie Ruby Monday group that you can find here. To get started, read the following, and if you get stuck, reach out to @sarony the project faciliator.
 
 ### About this project
