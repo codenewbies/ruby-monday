@@ -5,20 +5,31 @@ This repo is the project for the CodeNewbie Ruby Monday group that you can find 
 We are building a todo app as a community project to help us develop our ruby skills. In particular, we hope to work on:
 
 - collabortion
-- writing specs
+- writing specs (only ruby?)
 - turn feature requirements into actual features!
 - learn together
-- get code reviewed
+- get code reviewed by community members
 
 ## Getting Started
 
 ### Tech requirements
 You'll need to have installed ruby to begin. Here's how:
 
+- rails setup (https://gorails.com/setup/)
+
+- Mac
+- Windows
+- Linux
+
 You'll also need a github account and some knowledge of git. If you're not comfortable using git, that's perfectly fine! Start by reading this article and taking this course. If you get stuck or would like to walk through it with a real person, send us a note here and we'd be happy to setup some time to do it together.
 
+- try.github.io
+
+Want to test your knowledge? Take our collaboration git quiz ()
+
+
 ### Skill requirements
-You're welcome to start contributing at any level, but it's helpful to have some Ruby basics down. If you havne't done so already, take the Ruby track on Codeacdemy first. And if you're up for it, try Learn Ruby The Hard Way too. The come back and get your code on!
+You're welcome to start contributing at any level, but it's helpful to have some Ruby and Rails basics down. If you haven't done so already, take the Ruby track on Codeacdemy first. And if you're up for it, try Learn Ruby The Hard Way too. The come back and get your code on!
 
 ### How to contribute
 This project uses pull requests to make sure your code is looked at by others, and we have a truly collaborative system. Here's what to do:
