@@ -35,7 +35,7 @@ This is post tutorials, real project time. Brace yourselves. Not sure if this is
 ### How to contribute
 This project uses pull requests to make sure your code is looked at by others, and we have a truly collaborative system. Here's what to do:
 
-- Join our Slack community and tell your host you want to join the project
+- Join our [Slack community][1] and tell your host you want to join the project
 - accept invite from github to join as a collaborator
 - look through the issues list and pick a feature you want to work on
 - clone repo
@@ -52,3 +52,5 @@ The purpose of this project is to learn by working on a real-world application.
 
 - be nice in code reviews
 - [code of conduct](http://www.codenewbie.org/blogs/our-code-of-conduct)
+
+[1]: https://codenewbie.typeform.com/to/uwsWlZ
