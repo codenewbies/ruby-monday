@@ -35,7 +35,7 @@ This course from Code School lets you try out git from the browser. It's an easy
 - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 We'll be using the Feature Branch Workflow for these projects. This is a great blog post filled with awesome diagrams that show you how it works. Once you've familiarized yourself with git and Github, read through this to see how we'll use it in this collaborative setting.
 
-- *Have more git questions?* If you've gone through the posts above and want to walk through git concepts with a real person, send us a note (here)[mailto: "hello@codenewbie.org"] and we'd be happy to setup some time to do it together.
+- **Have more git questions?** If you've gone through the posts above and want to walk through git concepts with a real person, send us a note <hello@codenewbie.org> and we'd be happy to setup some time to do it together.
 
 ### Skill requirements
 You're welcome to start contributing at any level, but it's helpful to have some Ruby and Rails basics down. If you haven't done so already, take the Ruby track on Codeacdemy first. And if you're up for it, try Learn Ruby The Hard Way too. The come back and get your code on!
