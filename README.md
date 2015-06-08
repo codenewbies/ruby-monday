@@ -51,16 +51,16 @@ There's a big gap between the knowledge you gain when you go through the tutoria
 We use pull requests so you can get your code reviewed by others before merging it into the project. Code reviews are a great way to learn and collaborate. Here's how the process works:
 
 1. Join our [Slack community][1] and tell your host [ INSERT HOST HANDLE HERE ] you want to join the project repo
-2. The host will invite you to join as a collaborator. **You MUST be a collaborator to join the project and pick up features**
-3. Accept invite from Github to join as a collaborator
-- Look through the issues list and pick a feature you want to work on
-- Assign that feature to yourself
-- Clone this repo
+2. The host will invite you to join as a collaborator. You **MUST** be a collaborator to join the project and pick up features.
+3. Accept invite from Github to join as a collaborator.
+- Look through the issues list and pick a feature you want to work on.
+- Assign that feature to yourself.
+- Clone this repo.
 - Make a feature branch for the issue you're working on. The first part of the branch name should be your initials, like this: `sy-allows-users-to-update-avatar`
-- Push your branch to origin 
-- When your feature is done, make pull request
-- Copy and paste your pull request link to the [INSERT GROUP NAME ] Slack channel for review
-- Once you get some feedback on your pull request and a final thumbs up from a community member, merge to master & the close branch
+- Push your branch to origin. 
+- When your feature is done and ready to be reviewed, make pull request.
+- Copy and paste your pull request link to the [INSERT GROUP NAME ] Slack channel for review.
+- Once you get some feedback on your pull request and a final thumbs up from a community member, merge to master & the close branch.
 
 ### Come to Ruby Monday!
 Join us at 9PM EST on [ INSERT YOUR DAY ] to review code and talk about the project. Come with questions, code to show, and be ready to share what you're learning!
@@ -68,6 +68,6 @@ Join us at 9PM EST on [ INSERT YOUR DAY ] to review code and talk about the proj
 ## Community rules & guidelines
 The purpose of this project is to learn by working on a real-world application. Use the code reviews as a place to ask questions, offer suggestions, and share your thoughts. When giving feedback, particularly on code reviews, please remember our community rules: be nice, be honest, be supportive. We're all learning, so let's make sure to be kind to one another. 
 
-For more details, see our full Code of [Conduct](http://www.codenewbie.org/blogs/our-code-of-conduct)
+For more details, see our full Code of [Conduct](http://www.codenewbie.org/blogs/our-code-of-conduct). We're excited to learn with you :)
 
 [1]: https://codenewbie.typeform.com/to/uwsWlZ
