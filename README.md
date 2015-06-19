@@ -1,3 +1,9 @@
+REBASE ME!
+
+All your re-Bass are belong to us
+
+Ace of re_base
+
 # Welcome to the Ruby Monday Project! 
 This is the project for the CodeNewbie Ruby Monday group. You can join the group [here](https://codenewbie.typeform.com/to/uwsWlZ). To get started, read the following, and if you get stuck, reach out to [INSERT NAME] the host.
 
