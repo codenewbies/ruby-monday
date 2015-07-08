@@ -1,6 +1,8 @@
+Trello link here: https://trello.com/b/ffCjlMki/js-tuesday
+
 REBASE ME!
 
-All your re-Bass are belong to us
+All your re-bass are belong to us
 
 Ace of re_base
 
