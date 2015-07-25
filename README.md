@@ -1,10 +1,9 @@
-Trello link here: https://trello.com/b/ffCjlMki/js-tuesday
+Trello link here:
+https://trello.com/c/TUzDwtob/44-i-want-a-javascript-style-guide-to-help-us-maintain-consistent-practices-in-our-code-base
 
-REBASE ME!
-
-All your re-bass are belong to us
-
-Ace of re_base
+Saturday Discussion's have begun! Join us on Saturdays at noon for future talks
+:)
+All your rebase!
 
 # Welcome to the Ruby Monday Project! 
 This is the project for the CodeNewbie Ruby Monday group. You can join the group [here](https://codenewbie.typeform.com/to/uwsWlZ). To get started, read the following, and if you get stuck, reach out to [INSERT NAME] the host.
